@@ -1,0 +1,20 @@
+{
+  "name": "CoCo壱 阿蘇 口コミ分析",
+  "short_name": "CoCo壱 分析",
+  "start_url": "[★ GASのWebアプリのURL]",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#AA6C39",
+  "icons": [
+    {
+      "src": "[★ 192x192px アイコン画像のURL]",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "[★ 512x512px アイコン画像のURL]",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
