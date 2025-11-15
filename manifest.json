@@ -7,12 +7,12 @@
   "theme_color": "#AA6C39",
   "icons": [
     {
-      "src": "[あなたの 192x192 アイコン画像のURL]",
+      "src": "https://lifetime-energy.github.io/iica-test2/image192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "[あなたの 512x512 アイコン画像のURL]",
+      "src": "https://lifetime-energy.github.io/iica-test2/image512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
