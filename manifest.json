@@ -1,18 +1,21 @@
 {
   "name": "CoCo壱 阿蘇 口コミ分析",
   "short_name": "CoCo壱 分析",
-  "start_url": "https://script.google.com/a/macros/palpunte-labo.com/s/AKfycbzUC-UJhyg2nLY5WY0JyFBdso4TnMFMBhwjC3SWCv2OtHpsE73oTxi7pnprBuq5DYS-/exec",
+  
+  /* ▼▼ ここのURLをGitHub Pagesのトップ（=index.html）に変更 ▼▼ */
+  "start_url": "https://lifetime-energy.github.io/iica-test2/",
+  
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#AA6C39",
   "icons": [
     {
-      "src": "https://lifetime-energy.github.io/iica-test2/image192.png",
+      "src": "image192.png", /* 同じ場所にあるので相対パスでOK */
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://lifetime-energy.github.io/iica-test2/image512.png",
+      "src": "image512.png", /* 同じ場所にあるので相対パスでOK */
       "sizes": "512x512",
       "type": "image/png"
     }
